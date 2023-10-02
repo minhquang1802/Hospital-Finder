@@ -28,8 +28,7 @@ const List = ({ childClicked, isLoading }) => {
 
     setElRefs(refs);
   }, []);
-  console.log(typeof childClicked);
-  console.log(childClicked);
+
   return (
     <div className={classes.container}>
       <Typography variant='h4'>Bệnh viện ở gần bạn</Typography>

@@ -7,6 +7,7 @@
         "address": "527 Sư Vạn Hạnh, Phường 12, Quận 10",
         "web": "https://benhvien115.com.vn/",
         "phone": "1900099983",
+        "type": "BVTP",
         "coordinates": [
             10.77447,
             106.666286
@@ -19,6 +20,7 @@
         "address": "1 Nơ Trang Long, Phường 7, Bình Thạnh",
         "web": "http://bvndgiadinh.org.vn/",
         "phone": "02838412692",
+        "type": "BVTP",
         "coordinates": [
             10.803747,106.694139
         ]
@@ -30,6 +32,7 @@
         "address": "314 Nguyễn Trãi, Phường 8, Quận 5",
         "web": "https://bvnguyentrai.org.vn/",
         "phone": "02839235020",
+        "type": "BVTP",
         "coordinates": [
             10.756156,106.674954
         ]
@@ -41,6 +44,7 @@
         "address": "468 guyễn Trãi, Phường 8, Quận 5",
         "web": "https://bvnguyentriphuong.com.vn/",
         "phone": "02839234332",
+        "type": "BVTP",
         "coordinates": [
             10.755003,106.670535
         ]
@@ -52,6 +56,7 @@
         "address": "266 Lý Thường Kiệt, Phường 14, Quận 10",
         "web": "http://bvtrungvuong.vn/",
         "phone": "02854484949",
+        "type": "BVTP",
         "coordinates": [
             10.770506,106.659448
         ]
@@ -63,6 +68,7 @@
         "address": "153-157 Trần Quốc Thảo, Phường 9, Quận 3",
         "web": "http://taimuihongtphcm.vn/",
         "phone": "02839317381",
+        "type": "BVTP",
         "coordinates": [
             10.784510979532893, 106.68399025227535
         ]
@@ -74,6 +80,7 @@
         "address": "280 Điện Biên Phủ, Phường 7, Quận 3",
         "web": "http://www.benhvienmat.com/",
         "phone": "02839325364",
+        "type": "BVTP",
         "coordinates": [
             10.778775059398749, 106.68515954063761
         ]
@@ -85,6 +92,7 @@
         "address": "929 Trần Hưng Đạo, Phường 1, Quận 5",
         "web": "http://www.bvctch.vn/",
         "phone": "02839237007",
+        "type": "BVTP",
         "coordinates": [
             10.754472360939605, 106.67836548296484
         ]
@@ -96,6 +104,7 @@
         "address": "371 Điện Biên Phủ, Phường 4, Quận 3",
         "web": "http://www.bvbinhdan.com.vn/",
         "phone": "02838394747",
+        "type": "BVTP",
         "coordinates": [
             10.774382939267683, 106.68118926576652
         ]
@@ -107,6 +116,7 @@
         "address": "263-265 Trần Hưng Đạo, Phường Cô Giang, Quận 1",
         "web": "https://bvranghammat.com/",
         "phone": "1900636227",
+        "type": "BVTP",
         "coordinates": [
             10.763661730194228, 106.69197143878378
         ]
@@ -118,6 +128,7 @@
         "address": "764 Võ Văn Kiệt, Phường 1, Quận 5",
         "web": "http://www.bvbnd.vn/",
         "phone": "02839235804",
+        "type": "BVTP",
         "coordinates": [
             10.752932100675354, 106.67889753878372
         ]
@@ -129,6 +140,7 @@
         "address": "284 Cống Quỳnh, Phường Phạm Ngũ Lão, Quận 1",
         "web": "http://tudu.com.vn/",
         "phone": "02854042829",
+        "type": "BVTP",
         "coordinates": [
             10.768180067963703, 106.6847618946027
         ]
@@ -140,6 +152,7 @@
         "address": "9 Lý Thường Kiệt, Phường 12, Quận 5",
         "web": "http://www.bvhungvuong.vn/",
         "phone": "02839550957",
+        "type": "BVTP",
         "coordinates": [
             10.760072035989436, 106.66080348661758
         ]
@@ -151,6 +164,7 @@
         "address": "341 Sư Vạn Hạnh, Phường 10, Quận 10",
         "web": "http://nhidong.org.vn/",
         "phone": "02839271119",
+        "type": "BVTP",
         "coordinates": [
             10.768665688363651, 106.67026618481866
         ]
@@ -162,6 +176,7 @@
         "address": "14 Lý Tự Trọng, Bến Nghé, Quận 1",
         "web": "http://www.benhviennhi.org.vn/",
         "phone": "02838295723",
+        "type": "BVTP",
         "coordinates": [
             10.781058295582332, 106.70233387503472
         ]
@@ -173,6 +188,7 @@
         "address": "120 Hồng Bàng, Phường 12, Quận 5",
         "web": "http://www.bvpnt.org.vn/",
         "phone": "02838550207",
+        "type": "BVTP",
         "coordinates": [
             10.756594297472763, 106.6655253541286
         ]
@@ -184,6 +200,7 @@
         "address": "47 Nguyễn Huy Lượng, Phường 7, Bình Thạnh",
         "web": "http://benhvienungbuou.vn/",
         "phone": "02838433022",
+        "type": "BVTP",
         "coordinates": [
             10.805127777673679, 106.69448765042189
         ]
@@ -195,6 +212,7 @@
         "address": "4 Dương Quang Trung, Phường 12, Quận 10",
         "web": "https://vientimtphcm.vn/",
         "phone": "02838651586",
+        "type": "BVTP",
         "coordinates": [
             10.774107899876801, 106.66649162529262
         ]
@@ -206,6 +224,7 @@
         "address": "273 Nguyễn Văn Trỗi, Phường 10, Phú Nhuận",
         "web": "http://vienydhdt.gov.vn/",
         "phone": "02838443047",
+        "type": "BVTP",
         "coordinates": [
             10.798062078974697, 106.67151170171901
         ]
@@ -217,6 +236,7 @@
         "address": "2 Nguyễn Thông, Phường 6, Quận 3",
         "web": "https://bvdl.org.vn/",
         "phone": "02839308131",
+        "type": "BVTP",
         "coordinates": [
             10.776670779896884, 106.68653058111155
         ]
@@ -227,6 +247,7 @@
         "image": "https://i.postimg.cc/K4SBLDRV/2022-10-12.jpg",
         "address": "118 Hồng Bàng, Phường 12, Quận 5",
         "web": "http://bthh.org.vn/",
+        "type": "BVTP",
         "phone": "02839571342",
         "coordinates": [
             10.756670497406137, 106.66583868111108
@@ -238,6 +259,7 @@
         "image": "https://i.postimg.cc/ZKSLWJpq/2020-11-23.jpg",
         "address": "15 Võ Trần Chí, Tân Kiên, Bình Chánh",
         "web": "http://bvndtp.org.vn/",
+        "type": "BVTP",
         "phone": "19001217",
         "coordinates": [
             10.709649793527051, 106.57392503876103
@@ -249,6 +271,7 @@
         "image": "https://i.postimg.cc/fyjmc0mR/pic-timngua.png",
         "address": "9A Nguyễn Văn Hoài, Tân An Hội, Củ Chi",
         "web": "http://bvdkkvcuchi.vn/",
+        "type": "BVTP",
         "phone": "02838920583",
         "coordinates": [
             10.975837481288817, 106.47701355327054
@@ -260,6 +283,7 @@
         "image": "https://i.postimg.cc/zv03DwTK/2021-09-24.jpg",
         "address": "65/2B Bà Triệu, TT. Hóc Môn, Hóc Môn",
         "web": "http://bvdkhocmon.vn/",
+        "type": "BVTP",
         "phone": "02838914208",
         "coordinates": [
             10.882766671127907, 106.5933695387852
@@ -272,6 +296,7 @@
         "address": "64 Lê Văn Chí, Phường Linh Trung, Thủ Đức",
         "web": "http://www.benhvienkhuvucthuduc.vn/",
         "phone": "02837223556",
+        "type": "BVTP",
         "coordinates": [
             10.861621668529551, 106.77978216576768
         ]
@@ -283,6 +308,7 @@
         "address": "146 An Bình, Phường 7, Quận 5",
         "web": "http://www.benhvienanbinh.vn/",
         "phone": "02839234260",
+        "type": "BVTP",
         "coordinates": [
             10.754517839689377, 106.67148496576631
         ]
@@ -294,6 +320,7 @@
         "address": "125 Lê Lai, Phường Bến Thành, Quận 1",
         "web": "http://benhviendakhoasaigon.vn/",
         "phone": "02838291711",
+        "type": "BVTP",
         "coordinates": [
             10.77401521273453, 106.69956802261693
         ]
@@ -305,6 +332,7 @@
         "address": "766 Võ Văn Kiệt, Phường 1, Quận 5",
         "web": "https://bvtt-tphcm.org.vn/",
         "phone": "",
+        "type": "BVTP",
         "coordinates": [
             10.753861256515213, 106.67888281632145
         ]
@@ -316,6 +344,7 @@
         "address": "313 Âu Dương Lân, Phường 2, Quận 8",
         "web": "",
         "phone": "02838569147",
+        "type": "BVTP",
         "coordinates": [
             10.742436971619222, 106.68656191383644
         ]
@@ -327,6 +356,7 @@
         "address": "179-187 Nam Kỳ Khởi Nghĩa, Võ Thị Sáu, Quận 3",
         "web": "http://yhct.vn/",
         "phone": "02839326579",
+        "type": "BVTP",
         "coordinates": [
             10.786775714147511, 106.68870242304097
         ]
@@ -338,6 +368,7 @@
         "address": "338 Hai Bà Trưng, Phường Tân Định, Quận 1",
         "web": "http://bvq1.vn/",
         "phone": "02838200880",
+        "type": "BVQH",
         "coordinates": [
             10.791432331030876, 106.69057852227802
         ]
@@ -349,6 +380,7 @@
         "address": "130 Đường Lê Văn Thịnh, Phường Bình Trưng Tây, Thành phố Thủ Đức",
         "web": "https://benhvienlevanthinh.vn/",
         "phone": "02854327888",
+        "type": "BVQH",
         "coordinates": [
             10.783023443124252, 106.76919316933304
         ]
@@ -360,6 +392,7 @@
         "address": "114 Trần Quốc Thảo, Phường 14, Quận 3",
         "web": "https://bvquan3.medinet.gov.vn/default.aspx",
         "phone": "02839310400",
+        "type": "BVQH",
         "coordinates": [
             10.784957075961033, 106.68392292343911
         ]
@@ -371,6 +404,7 @@
         "address": "65 Bến Vân Đồn, Phường 12, Quận 4",
         "web": "http://benhvienquan4.vn/",
         "phone": "0838261568",
+        "type": "BVQH",
         "coordinates": [
             10.765513469551966, 106.70223644063736
         ]
@@ -382,6 +416,7 @@
         "address": "642A Nguyễn Trãi, Phường 11, Quận 5",
         "web": "https://trungtamytequan5.medinet.gov.vn/",
         "phone": "02838550235",
+        "type": "BVQH",
         "coordinates": [
             10.754235457080487, 106.6658317541285
         ]
@@ -393,6 +428,7 @@
         "address": "2D Chợ Lớn, Phường 11, Quận 6",
         "web": "http://bvquan6.medinet.gov.vn/",
         "phone": "02838750990",
+        "type": "BVQH",
         "coordinates": [
             10.746792165372197, 106.63451942529224
         ]
@@ -404,6 +440,7 @@
         "address": "101 Nguyễn Thị Thập, Tân Phú, Quận 7",
         "web": "http://www.benhvienquan7.com.vn/",
         "phone": "02838733420",
+        "type": "BVQH",
         "coordinates": [
             10.737447240290857, 106.72412278111112
         ]
@@ -415,6 +452,7 @@
         "address": "82 Cao Lỗ, Phường 4, Quận 8",
         "web": "http://bvquan8.medinet.gov.vn/",
         "phone": "02838506133",
+        "type": "BVQH",
         "coordinates": [
             10.741972373610222, 106.67645326947337
         ]
@@ -426,6 +464,7 @@
         "address": "387 Lê Văn Việt, Tăng Nhơn Phú A, Thành Phố Thủ Đức",
         "web": "http://bvquan9.medinet.gov.vn/",
         "phone": "02838973628",
+        "type": "BVQH",
         "coordinates": [
             10.845139533613429, 106.7899792387849
         ]
@@ -437,6 +476,7 @@
         "address": "571 Sư Vạn Hạnh, Phường 12, Quận 10",
         "web": "https://bvquan10.medinet.gov.vn/",
         "phone": "38626978",
+        "type": "BVQH",
         "coordinates": [
             10.776453121557706, 106.66671178296514
         ]
@@ -448,6 +488,7 @@
         "address": "72 Đường số 5-Cư xá Bình Thới, Phường 8, Quận 11",
         "web": "https://benhvienquan11.vn/",
         "phone": "",
+        "type": "BVQH",
         "coordinates": [
             10.760644370635857, 106.64813192529247
         ]
@@ -459,6 +500,7 @@
         "address": "111 Dương Thị Mười, Phường Tân Chánh Hiệp, Quận 12",
         "web": "http://benhvienquan12.vn/",
         "phone": "02862507955",
+        "type": "BVQH",
         "coordinates": [
             10.860684745946715, 106.63076986762123
         ]
@@ -470,6 +512,7 @@
         "address": "641 Quang Trung, Phường 11, Gò Vấp",
         "web": "http://benhviengovap.vn/",
         "phone": "02835891799",
+        "type": "BVQH",
         "coordinates": [
             10.834933103869528, 106.66161426947443
         ]
@@ -481,6 +524,7 @@
         "address": "274 Nguyễn Trọng Tuyển, Phường 8, Q.Phú Nhuận",
         "web": "http://bvquanphunhuan.medinet.gov.vn/",
         "phone": "02838443910",
+        "type": "BVQH",
         "coordinates": [
             10.798405266518312, 106.67172302874228
         ]
@@ -492,6 +536,7 @@
         "address": "605 Hoàng Văn Thụ, Phường 4, Tân Bình",
         "web": "https://bvtb.org.vn/",
         "phone": "0966381010",
+        "type": "BVQH",
         "coordinates": [
             10.794705730125544, 106.65502851180156
         ]
@@ -503,6 +548,7 @@
         "address": "611 Âu Cơ, Phú Trung, Tân Phú",
         "web": "http://benhvientanphu.vn/",
         "phone": "02854088924",
+        "type": "BVQH",
         "coordinates": [
             10.787083211977476, 106.64125176948295
         ]
@@ -514,6 +560,7 @@
         "address": "132 Lê Văn Duyệt, Phường 1, Bình Thạnh",
         "web": "http://bvbinhthanh.org.vn/",
         "phone": "02835108966",
+        "type": "BVQH",
         "coordinates": [
             10.798156255738938, 106.69668195412898
         ]
@@ -525,6 +572,7 @@
         "address": "809 Hương Lộ 2, Phường Bình Trị Đông A, Bình Tân",
         "web": "http://bvbinhtan.vn/",
         "phone": "02837542955",
+        "type": "BVQH",
         "coordinates": [
             10.767962862606797, 106.60145954776034
         ]
@@ -536,6 +584,7 @@
         "address": "29 Phú Châu, Tam Phú, thành phố Thủ Đức",
         "web": "https://benhvienthuduc.vn/",
         "phone": "0966331010",
+        "type": "BVQH",
         "coordinates": [
             10.864489507513085, 106.74569538041568
         ]
@@ -547,6 +596,7 @@
         "address": "1307 Tỉnh lộ 7, An Nhơn Tây, Củ Chi",
         "web": "http://benhvienhuyencuchi.com/",
         "phone": "02837946443",
+        "type": "BVQH",
         "coordinates": [
             11.085554190196941, 106.50915575042534
         ]
@@ -558,6 +608,7 @@
         "address": "1 Đường số 1, Khu trung tâm hành chính huyện, Bình Chánh",
         "web": "http://binhchanhhospital.vn/",
         "phone": "02837602895",
+        "type": "BVQH",
         "coordinates": [
             10.69109144154588, 106.58591832343798
         ]
@@ -569,6 +620,7 @@
         "address": "281A Lê Văn Lương, Phước Kiển, Nhà Bè",
         "web": "http://www.benhviennhabe.vn/",
         "phone": "02837815558",
+        "type": "BVQH",
         "coordinates": [
             10.704667474231774, 106.7044589964555
         ]
@@ -580,6 +632,7 @@
         "address": "Khu phố Miễu Ba, thị trấn Cần Thạnh, huyện Cần Giờ, TPHCM",
         "web": "https://bvhuyencangio.medinet.gov.vn/",
         "phone": "02838740317",
+        "type": "BVQH",
         "coordinates": [
             10.41216502333499, 106.9546832838247
         ]
