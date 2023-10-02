@@ -19,7 +19,15 @@ const List = ({ childClicked, isLoading }) => {
   const classes = useStyles();
   const [type, setType] = useState('BVTP');
   const [rating, setRating] = useState('');
-  const elRefs = Loc.loc.map(() => createRef());
+  const [elRefs, setElRefs] = useState([]);
+
+  useEffect(() => {
+    const refs = Array(Loc.loc.length)
+      .fill()
+      .map((_, i) => elRefs[i] || createRef());
+
+    setElRefs(refs);
+  }, []);
   console.log(typeof childClicked);
   console.log(childClicked);
   return (
