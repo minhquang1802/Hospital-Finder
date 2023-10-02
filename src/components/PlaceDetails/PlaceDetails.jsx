@@ -13,7 +13,7 @@ const PlaceDetail = ({ place, selected, refProp }) => {
     console.log(selected);
 
     if(selected) refProp.current?.scrollIntoView({ behavior: "smooth", block: "start" })
-
+  
     return (
         <Card elevation={6}>
             <CardMedia 
